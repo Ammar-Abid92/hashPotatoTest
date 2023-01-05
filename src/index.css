@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face { font-family: Meedori-Sans; 
+  src: url('./fonts/Meedori-Sans-Regular.woff'); } 
+
+/* install meedori sans, jost, font */
